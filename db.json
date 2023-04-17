@@ -1,0 +1,45 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "firstName": "aya",
+      "lastName": "hamza",
+      "email": "aayahamzaa@gmail.com",
+      "bd": "2003-03-04T00:00:00.000Z",
+      "gender": "female",
+      "education": "Associate Student",
+      "company": "instagram",
+      "experience": "3",
+      "package": "12",
+      "id": 1
+    },
+    {
+      "firstName": "test",
+      "lastName": "test",
+      "email": "test@gmail.com",
+      "bd": "2000-01-01T00:00:00.000Z",
+      "gender": "male",
+      "education": "PhD Student",
+      "company": "toto",
+      "experience": "20",
+      "package": "67",
+      "id": 2
+    }
+  ]
+}
